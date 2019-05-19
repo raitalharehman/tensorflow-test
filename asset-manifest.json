@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tsml/static/css/main.6fca2292.chunk.css",
-    "main.js": "/tsml/static/js/main.2927734d.chunk.js",
-    "main.js.map": "/tsml/static/js/main.2927734d.chunk.js.map",
-    "runtime~main.js": "/tsml/static/js/runtime~main.10b8e70e.js",
-    "runtime~main.js.map": "/tsml/static/js/runtime~main.10b8e70e.js.map",
-    "static/js/2.29315016.chunk.js": "/tsml/static/js/2.29315016.chunk.js",
-    "static/js/2.29315016.chunk.js.map": "/tsml/static/js/2.29315016.chunk.js.map",
-    "index.html": "/tsml/index.html",
-    "precache-manifest.3d8509b2bad6226e9388f1b3612eb839.js": "/tsml/precache-manifest.3d8509b2bad6226e9388f1b3612eb839.js",
-    "service-worker.js": "/tsml/service-worker.js",
-    "static/css/main.6fca2292.chunk.css.map": "/tsml/static/css/main.6fca2292.chunk.css.map"
+    "main.css": "/tensorflow-test/static/css/main.6fca2292.chunk.css",
+    "main.js": "/tensorflow-test/static/js/main.340e8b67.chunk.js",
+    "main.js.map": "/tensorflow-test/static/js/main.340e8b67.chunk.js.map",
+    "runtime~main.js": "/tensorflow-test/static/js/runtime~main.0226b021.js",
+    "runtime~main.js.map": "/tensorflow-test/static/js/runtime~main.0226b021.js.map",
+    "static/js/2.29315016.chunk.js": "/tensorflow-test/static/js/2.29315016.chunk.js",
+    "static/js/2.29315016.chunk.js.map": "/tensorflow-test/static/js/2.29315016.chunk.js.map",
+    "index.html": "/tensorflow-test/index.html",
+    "precache-manifest.b1951fe86748519bcc060faddc11cfa6.js": "/tensorflow-test/precache-manifest.b1951fe86748519bcc060faddc11cfa6.js",
+    "service-worker.js": "/tensorflow-test/service-worker.js",
+    "static/css/main.6fca2292.chunk.css.map": "/tensorflow-test/static/css/main.6fca2292.chunk.css.map"
   }
 }
